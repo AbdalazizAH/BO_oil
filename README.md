@@ -64,6 +64,16 @@ This is a graphical user interface (GUI) application to calculate the Oil Format
 - The application features a custom dark theme using Tkinter's `ttk.Style`.
 - The `CustomButton` class provides styled buttons for a consistent look and feel.
 
+## Screenshots
+
+### Before Loading Data
+![Before Loading Data](images/before_loading.png)
+
+### After Loading Data
+![After Loading Data](images/after_loading.png)
+
+### Result Plot
+![Result Plot](images/result_plot.png)
 ## Example
 
 ### Input Parameters
